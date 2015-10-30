@@ -13,7 +13,7 @@
         </AppBar>
     </Page.TopAppBar>
 
-    <Grid Background="#FF300505">
+    <Grid Background="Black">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0.5*" />
             <ColumnDefinition Width="0.25*" />
