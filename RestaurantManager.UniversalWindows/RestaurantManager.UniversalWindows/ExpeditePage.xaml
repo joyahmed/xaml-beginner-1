@@ -18,9 +18,7 @@
             <RowDefinition Height="0.9*"/>
             <RowDefinition Height="0.1*" />
         </Grid.RowDefinitions>
-        <Canvas Grid.Row="0">
-            
-        </Canvas>
+        <GridView Grid.Row="0" Margin="10,10,10,10" Background="Black"/>
         <Button Content="**Clear All Orders**" Foreground="White" Grid.Row="2"  Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="365,11,364,11" Height="55" Width="295"/>
     </Grid>
 </Page>
